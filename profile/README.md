@@ -6,8 +6,8 @@ Check out the production build of QuickPlate [here](http://jason-mckinlay-quickp
 
 ## 🛠 Tech Stack
 
-* **Front-End:** React, Node, JavaScript (running on `quickplate-frontend`)
-* **Back-End:** Spring Boot, Java (running on `quickplate-service`)
+* **Front-End:** React, Node, JavaScript
+* **Back-End:** Spring Boot, Java
 * **Database:** PostgreSQL
 * **DevOps:** Docker
 * **AWS Cloud:** EC2, RDS, S3
