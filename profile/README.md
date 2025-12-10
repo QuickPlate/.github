@@ -1,8 +1,9 @@
 # Welcome to QuickPlate 🍔
 
 **QuickPlate** is a cloud-native full-stack project I created to demonstrate my technical skills, designed to be a healthier meal-delivery service drawing from my real-world athletic diet.
-
 Check out the production build of QuickPlate [here](http://jason-mckinlay-quickplate-frontend-build.s3-website.us-east-2.amazonaws.com/).
+
+***Disclaimer**: This is just a demo of my technical skills. No orders will actually be fulfilled, and no user information is saved. Always practice online safety and never give out personal information.*
 
 ## 🛠 Tech Stack
 
